@@ -47,7 +47,37 @@ All results are exported directly to a **Google Sheet** or **CSV** — ready for
 | Custom AI Agent | Data Categorization & Enrichment |
 
 ---
+## 1. Install n8n
 
+If you don’t have n8n installed, follow the official guide:
+👉 https://docs.n8n.io/hosting/installation/
+
+You can run it using Docker or directly via npm:
+
+npm install n8n -g
+n8n start
+
+## 2. Import the Workflow
+
+Open your n8n dashboard
+
+Click “Import” → “From File”
+
+Select workflow/n8n_workflow.json
+
+This will load the entire automation pipeline.
+
+## 3. Add Your Credentials
+
+Create an Apify account → https://apify.com/
+
+Get your Apify API Token
+
+Connect your Google Account (for Sheets integration)
+
+Add both credentials under n8n → Credentials
+
+---
 ## 🧩 Key Features
 
 ✅ Generate unlimited leads  
