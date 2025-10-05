@@ -4,7 +4,7 @@
 > Extract business leads instantly — without hiring a single person!
 >
 > 
-![Workflow Diagram](https://github.com/Ahmad-Ali-Rafique/Agentic-Lead-Generation-System/blob/main/Lead%20generation%20Flow%20Diagram.png)
+![Workflow Diagram](Screenshots/Lead generation Flow Diagram.png)
 ---
 
 ## 🧠 Overview
