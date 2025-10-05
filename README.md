@@ -104,7 +104,7 @@ This automation personally helped me:
 
 | Workflow | Form | Output |
 |-----------|------|--------|
-| ![Workflow](workflow/screenshots/workflow_overview.png) | ![Form](workflow/screenshots/form_screenshot.png) | ![Output](workflow/screenshots/output_sample.png) |
+| ![Workflow](https://github.com/Ahmad-Ali-Rafique/Agentic-Lead-Generation-System/blob/main/Screenshots/Lead%20generation%20Flow%20Diagram.png) | ![Form](https://github.com/Ahmad-Ali-Rafique/Agentic-Lead-Generation-System/blob/main/Screenshots/Workflow_Overview.jpg) | ![Output](https://github.com/Ahmad-Ali-Rafique/Agentic-Lead-Generation-System/blob/main/Screenshots/output_sample.jpg) |
 
 ---
 
