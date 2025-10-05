@@ -127,4 +127,4 @@ This project is licensed under the MIT License — feel free to use, modify, and
 👤 **Ahmad Ali Rafique**  
 💼 [LinkedIn](https://linkedin.com/in/ahmad-ali-rafique)  
 🌐 [GitHub](https://github.com/Ahmad-Ali-Rafique)  
-📺 [YouTube - AboutAI](https://www.youtube.com/@AhmadAliRafique)  
+📺 [YouTube - Ahmad Ali](https://www.youtube.com/@AhmadAliRafique)  
