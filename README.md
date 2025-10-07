@@ -1,12 +1,11 @@
 # ⚡ Agentic Lead Generation System — 1000+ Leads in One Click
+ 
+![Workflow Diagram](https://github.com/Ahmad-Ali-Rafique/Agentic-Lead-Generation-System/blob/main/Screenshots/Business%20Lead%20generation%20System.png)
+---
 
 > Automate your lead generation process with n8n + Apify.  
 > Extract business leads instantly — without hiring a single person!
 >
-> 
-![Workflow Diagram](https://github.com/Ahmad-Ali-Rafique/Agentic-Lead-Generation-System/blob/main/Screenshots/Lead%20generation%20Flow%20Diagram.png)
----
-
 ## 🧠 Overview
 
 The **Agentic Lead Generation System** automates the process of finding and collecting business leads at scale.
